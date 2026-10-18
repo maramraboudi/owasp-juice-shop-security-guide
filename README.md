@@ -11,6 +11,8 @@ A structured learning resource for assessing web application security in the int
 - [Scope and method](report/02-scope-and-method.md) ? safe evidence handling and a repeatable workflow.
 - [Findings index](report/INDEX.md) ? twelve findings with impact and remediation.
 - [OWASP mapping and learner checklist](report/18-owasp-mapping-and-checklist.md)
+- [Severity and assessment limitations](report/19-severity-and-assessment-notes.md) ? [OWASP Top 10 context](report/20-owasp-top-ten-context.md)
+- [Contributing](CONTRIBUTING.md)
 - [Remediation priorities](report/15-remediation.md) ? [References](report/16-references.md) ? [Glossary](report/17-glossary.md)
 
 ## What the assessment found

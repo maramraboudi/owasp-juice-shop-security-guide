@@ -33,5 +33,7 @@ This guide reorganizes the supplied assessment into a learning-oriented sequence
 - [References](16-references.md)
 - [Glossary](17-glossary.md)
 - [OWASP mapping and learner checklist](18-owasp-mapping-and-checklist.md)
+- [Severity and assessment notes](19-severity-and-assessment-notes.md)
+- [OWASP Top 10 context](20-owasp-top-ten-context.md)
 
 The source PDF and screenshots are not redistributed. Images contained session data and account/credential material; the guide retains the lessons while omitting those artifacts.
