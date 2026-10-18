@@ -24,3 +24,37 @@ SQL injection may permit unauthorized reading or modification of records, depend
 - Add regression tests proving input cannot alter query structure.
 
 **References:** [OWASP SQL Injection Prevention Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/SQL_Injection_Prevention_Cheat_Sheet.html) ? [CWE-89](https://cwe.mitre.org/data/definitions/89.html)
+
+## Report figures
+
+![Figure 35: Local SQL-injection test command; command details redacted.](figures/figure-35.jpg)
+
+*Figure 35. Local SQL-injection test command; command details redacted.*
+
+![Figure 36: Database enumeration output redacted.](figures/figure-36.jpg)
+
+*Figure 36. Database enumeration output redacted.*
+
+![Figure 37: Database query test details redacted.](figures/figure-37.jpg)
+
+*Figure 37. Database query test details redacted.*
+
+![Figure 38: Database error comparison details redacted.](figures/figure-38.jpg)
+
+*Figure 38. Database error comparison details redacted.*
+
+![Figure 39: Database extraction request redacted.](figures/figure-39.jpg)
+
+*Figure 39. Database extraction request redacted.*
+
+![Figure 40: User data and hash output redacted.](figures/figure-40.jpg)
+
+*Figure 40. User data and hash output redacted.*
+
+![Figure 41: Database schema output redacted.](figures/figure-41.jpg)
+
+*Figure 41. Database schema output redacted.*
+
+![Figure 42: Local challenge completion for the schema exercise.](figures/figure-42.jpg)
+
+*Figure 42. Local challenge completion for the schema exercise.*

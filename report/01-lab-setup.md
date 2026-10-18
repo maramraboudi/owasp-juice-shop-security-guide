@@ -34,3 +34,53 @@ Confirm the browser uses the local Juice Shop address and proxy history contains
 - Use synthetic lab accounts; never reuse real passwords or tokens.
 - Do not save session cookies, authorization headers, or exported user records.
 - Stop the container when finished.
+
+## Report figures
+
+![Figure 1: Docker image pull and container startup.](figures/figure-01.jpg)
+
+*Figure 1. Docker image pull and container startup.*
+
+![Figure 2: Local Docker port mapping for Juice Shop.](figures/figure-02.jpg)
+
+*Figure 2. Local Docker port mapping for Juice Shop.*
+
+![Figure 3: Browser proxy extension installed for the lab.](figures/figure-03.jpg)
+
+*Figure 3. Browser proxy extension installed for the lab.*
+
+![Figure 4: Browser permission prompt during proxy setup.](figures/figure-04.jpg)
+
+*Figure 4. Browser permission prompt during proxy setup.*
+
+![Figure 5: Proxy configuration using a loopback listener.](figures/figure-05.jpg)
+
+*Figure 5. Proxy configuration using a loopback listener.*
+
+![Figure 6: Proxy selected for the lab browser.](figures/figure-06.jpg)
+
+*Figure 6. Proxy selected for the lab browser.*
+
+![Figure 7: Local intercepting proxy listener settings.](figures/figure-07.jpg)
+
+*Figure 7. Local intercepting proxy listener settings.*
+
+![Figure 8: Proxy welcome page on the local machine.](figures/figure-08.jpg)
+
+*Figure 8. Proxy welcome page on the local machine.*
+
+![Figure 9: Second check of the local proxy listener.](figures/figure-09.jpg)
+
+*Figure 9. Second check of the local proxy listener.*
+
+![Figure 10: Browser trust prompt for the proxy certificate.](figures/figure-10.jpg)
+
+*Figure 10. Browser trust prompt for the proxy certificate.*
+
+![Figure 11: Certificate manager import control; illustrative replacement because the PDF captioned this figure but had no embedded image.](figures/figure-11.jpg)
+
+*Figure 11. Certificate manager import control; illustrative replacement because the PDF captioned this figure but had no embedded image.*
+
+![Figure 12: Proxy history showing lab traffic; request details redacted.](figures/figure-12.jpg)
+
+*Figure 12. Proxy history showing lab traffic; request details redacted.*

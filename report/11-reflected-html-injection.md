@@ -24,3 +24,9 @@ Attacker-controlled markup can mislead users or alter page content; it becomes s
 - Test that special characters remain text in the search heading.
 
 **Reference:** [OWASP XSS Prevention Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/Cross_Site_Scripting_Prevention_Cheat_Sheet.html)
+
+## Report figures
+
+![Figure 34: Reflected HTML demonstration redacted.](figures/figure-34.jpg)
+
+*Figure 34. Reflected HTML demonstration redacted.*

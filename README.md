@@ -10,6 +10,7 @@ A structured learning resource for assessing web application security in the int
 - [Build an isolated lab](report/01-lab-setup.md) ? run Juice Shop locally and inspect your own traffic.
 - [Scope and method](report/02-scope-and-method.md) ? safe evidence handling and a repeatable workflow.
 - [Findings index](report/INDEX.md) ? twelve findings with impact and remediation.
+- [Figure index](report/figures/README.md) ? all 48 figures, with sensitive details redacted.
 - [OWASP mapping and learner checklist](report/18-owasp-mapping-and-checklist.md)
 - [Severity and assessment limitations](report/19-severity-and-assessment-notes.md) ? [OWASP Top 10 context](report/20-owasp-top-ten-context.md)
 - [Contributing](CONTRIBUTING.md)
@@ -28,7 +29,7 @@ The individual entries contain **12 findings**, while the source report's execut
 3. Reproduce each issue only in the local lab; record minimum evidence.
 4. Explain the root cause, apply the remediation concepts, then retest.
 
-The original PDF and screenshots are not included. Some images contain account identifiers, credential material, hashes, or session data; these artifacts are not needed to learn the security lessons. Findings are presented without those values.
+The source PDF is not included. All 48 report figures are represented in a [figure index](report/figures/README.md) and embedded in their related sections. Sensitive screenshot details (account data, tokens, hashes, credentials, and phishing destinations) are redacted; Figure 11 is an explicitly labeled illustration because the PDF captioned it without embedding its image.
 
 ## Contents
 
@@ -40,6 +41,7 @@ report/
   01-lab-setup.md
   02-scope-and-method.md
   03-public-information-disclosure.md ... 14-jwt-validation.md
+  figures/ ? numbered, sanitized report figures
   15-remediation.md
   16-references.md
   17-glossary.md

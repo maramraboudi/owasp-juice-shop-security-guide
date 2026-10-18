@@ -23,3 +23,21 @@ Client-side code is delivered to users and should be assumed inspectable. Route 
 - Lazy loading can reduce initial bundle contents but does not replace server-side checks.
 
 **Related:** [Administration access control](06-administration-access-control.md)
+
+## Report figures
+
+![Figure 14: Application JavaScript bundle route discovery.](figures/figure-14.jpg)
+
+*Figure 14. Application JavaScript bundle route discovery.*
+
+![Figure 15: Search within the JavaScript bundle for route names.](figures/figure-15.jpg)
+
+*Figure 15. Search within the JavaScript bundle for route names.*
+
+![Figure 16: Unauthenticated request to the administrative route.](figures/figure-16.jpg)
+
+*Figure 16. Unauthenticated request to the administrative route.*
+
+![Figure 17: Juice Shop score board page.](figures/figure-17.jpg)
+
+*Figure 17. Juice Shop score board page.*

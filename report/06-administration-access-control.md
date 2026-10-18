@@ -24,3 +24,9 @@ If administrative endpoints do not verify the caller's role, a stolen or forged 
 - Treat frontend route guards as user-experience features only.
 
 **References:** [OWASP Authorization Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/Authorization_Cheat_Sheet.html) ? [CWE-284](https://cwe.mitre.org/data/definitions/284.html)
+
+## Report figures
+
+![Figure 23: Administrative view; user and feedback data redacted.](figures/figure-23.jpg)
+
+*Figure 23. Administrative view; user and feedback data redacted.*

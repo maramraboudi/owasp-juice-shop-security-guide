@@ -24,3 +24,9 @@ Configuration details may aid reconnaissance or disclose internal endpoints, fea
 - Add tests for unauthenticated access to administrative routes.
 
 **References:** [OWASP API Security Project](https://owasp.org/www-project-api-security/) ? [CWE-200](https://cwe.mitre.org/data/definitions/200.html)
+
+## Report figures
+
+![Figure 24: Configuration API response; values redacted.](figures/figure-24.jpg)
+
+*Figure 24. Configuration API response; values redacted.*

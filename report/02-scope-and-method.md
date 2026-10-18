@@ -17,6 +17,6 @@ The assessment is a point-in-time snapshot. It does not establish security of ot
 
 ## Evidence handling
 
-Evidence should demonstrate a finding with the minimum necessary data. Do not capture or publish raw cookies, JWTs, passwords, password hashes, full user lists, private documents, or live credentials. The source report screenshots contained this type of material and are omitted. The findings here preserve the security lessons without reproducing those artifacts.
+Evidence should demonstrate a finding with the minimum necessary data. Do not capture or publish raw cookies, JWTs, passwords, password hashes, full user lists, private documents, or live credentials. Some source report screenshots contained this type of material. The figures are included with sensitive areas redacted; Figure 11 is an illustrative replacement for a caption whose image was missing from the PDF.
 
 Behavior and impact statements reflect the supplied assessment, not independent verification of the current application. Severity labels are discussed in the [overview](00-overview.md#severity-and-reporting-caveats).

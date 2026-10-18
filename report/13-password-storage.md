@@ -24,3 +24,21 @@ Fast general-purpose hashes are inexpensive to guess offline. Password reuse can
 - Encourage unique passwords and phishing-resistant MFA where appropriate.
 
 **References:** [OWASP Password Storage Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/Password_Storage_Cheat_Sheet.html) ? [CWE-328](https://cwe.mitre.org/data/definitions/328.html)
+
+## Report figures
+
+![Figure 43: Exported records redacted.](figures/figure-43.jpg)
+
+*Figure 43. Exported records redacted.*
+
+![Figure 44: Password hash value redacted.](figures/figure-44.jpg)
+
+*Figure 44. Password hash value redacted.*
+
+![Figure 45: Hash identification result redacted.](figures/figure-45.jpg)
+
+*Figure 45. Hash identification result redacted.*
+
+![Figure 46: Recovered password output redacted.](figures/figure-46.jpg)
+
+*Figure 46. Recovered password output redacted.*

@@ -24,3 +24,25 @@ An authentication query modified by user input may permit authentication bypass 
 - Add regression tests proving malformed input remains data, not query syntax.
 
 **References:** [OWASP SQL Injection Prevention Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/SQL_Injection_Prevention_Cheat_Sheet.html) ? [CWE-89](https://cwe.mitre.org/data/definitions/89.html)
+
+## Report figures
+
+![Figure 18: Captured login request; account and request values redacted.](figures/figure-18.jpg)
+
+*Figure 18. Captured login request; account and request values redacted.*
+
+![Figure 19: Proxy Intruder configuration; payload details redacted.](figures/figure-19.jpg)
+
+*Figure 19. Proxy Intruder configuration; payload details redacted.*
+
+![Figure 20: Local login test results; response data redacted.](figures/figure-20.jpg)
+
+*Figure 20. Local login test results; response data redacted.*
+
+![Figure 21: Login form during local SQL-injection challenge; input redacted.](figures/figure-21.jpg)
+
+*Figure 21. Login form during local SQL-injection challenge; input redacted.*
+
+![Figure 22: Local challenge completion notification.](figures/figure-22.jpg)
+
+*Figure 22. Local challenge completion notification.*

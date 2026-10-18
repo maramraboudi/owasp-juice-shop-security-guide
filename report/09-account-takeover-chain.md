@@ -18,3 +18,17 @@ A chain can have greater impact than either weakness alone. Account access may e
 ## Remediation
 
 Fix the root causes rather than treating the chain as a separate issue: parameterize the login query, avoid publishing internal identifiers, enforce role checks server-side, and invalidate sessions issued before remediation. Retest each link independently.
+
+## Report figures
+
+![Figure 29: Public review with account identifier redacted.](figures/figure-29.jpg)
+
+*Figure 29. Public review with account identifier redacted.*
+
+![Figure 30: Login form during local account challenge; input redacted.](figures/figure-30.jpg)
+
+*Figure 30. Login form during local account challenge; input redacted.*
+
+![Figure 31: Local challenge completion notification.](figures/figure-31.jpg)
+
+*Figure 31. Local challenge completion notification.*

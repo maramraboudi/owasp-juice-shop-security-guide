@@ -24,3 +24,21 @@ Public backups and documents can reveal source/configuration details or sensitiv
 - If real credentials were exposed, rotate them and assess reuse promptly.
 
 **References:** [CWE-548](https://cwe.mitre.org/data/definitions/548.html) ? [OWASP Web Security Testing Guide](https://owasp.org/www-project-web-security-testing-guide/)
+
+## Report figures
+
+![Figure 25: Robots file path discovery for the lab.](figures/figure-25.jpg)
+
+*Figure 25. Robots file path discovery for the lab.*
+
+![Figure 26: Public file listing; file details redacted.](figures/figure-26.jpg)
+
+*Figure 26. Public file listing; file details redacted.*
+
+![Figure 27: Confidential document view; contents redacted.](figures/figure-27.jpg)
+
+*Figure 27. Confidential document view; contents redacted.*
+
+![Figure 28: Local challenge completion for document access.](figures/figure-28.jpg)
+
+*Figure 28. Local challenge completion for document access.*

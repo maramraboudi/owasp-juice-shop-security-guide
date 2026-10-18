@@ -23,3 +23,9 @@ A public identifier can supply a login name or help tailor social engineering. R
 - Do not treat email obfuscation as a substitute for strong authentication.
 
 **Related:** [Login SQL injection](05-login-sql-injection.md) ? [Account-takeover chain](09-account-takeover-chain.md)
+
+## Report figures
+
+![Figure 13: Public product review with account identifier redacted.](figures/figure-13.jpg)
+
+*Figure 13. Public product review with account identifier redacted.*

@@ -24,3 +24,13 @@ If a server trusts a client-controlled algorithm or fails to verify signatures, 
 - Use short lifetimes and a refresh/revocation strategy suitable for the application.
 
 **References:** [OWASP REST Security Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/REST_Security_Cheat_Sheet.html) ? [RFC 8725: JWT Best Current Practices](https://www.rfc-editor.org/rfc/rfc8725)
+
+## Report figures
+
+![Figure 47: Credential lookup challenge evidence redacted.](figures/figure-47.jpg)
+
+*Figure 47. Credential lookup challenge evidence redacted.*
+
+![Figure 48: Local score-board challenge card.](figures/figure-48.jpg)
+
+*Figure 48. Local score-board challenge card.*

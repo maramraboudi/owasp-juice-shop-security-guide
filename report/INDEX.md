@@ -36,4 +36,4 @@ This guide reorganizes the supplied assessment into a learning-oriented sequence
 - [Severity and assessment notes](19-severity-and-assessment-notes.md)
 - [OWASP Top 10 context](20-owasp-top-ten-context.md)
 
-The source PDF and screenshots are not redistributed. Images contained session data and account/credential material; the guide retains the lessons while omitting those artifacts.
+The source PDF is not redistributed. See the [48-figure index](figures/README.md); sensitive screenshot details are redacted, and Figure 11 is an identified illustration because its caption had no embedded image in the source PDF.

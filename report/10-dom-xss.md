@@ -24,3 +24,13 @@ Script execution in a trusted origin can act with the victim browser's privilege
 - Set session cookies with appropriate `HttpOnly`, `Secure`, and `SameSite` attributes.
 
 **References:** [OWASP XSS Prevention Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/Cross_Site_Scripting_Prevention_Cheat_Sheet.html) ? [DOM-based XSS Prevention Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/DOM_based_XSS_Prevention_Cheat_Sheet.html)
+
+## Report figures
+
+![Figure 32: Harmless DOM-XSS challenge marker in the lab.](figures/figure-32.jpg)
+
+*Figure 32. Harmless DOM-XSS challenge marker in the lab.*
+
+![Figure 33: Session-token display redacted.](figures/figure-33.jpg)
+
+*Figure 33. Session-token display redacted.*
